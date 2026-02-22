@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am Nikhil Singh, Final year student of electronics and communication engineering from JBIET 
-my projects-
+I am Nikhil Singh, Final year student of electronics and communication engineering from JBIET <br>- my projects-
 - Smart Attendance System using Face Recognition  <br>- Bluetooth-based proximity verification  <br>- Blockchain-based tamper-proof attendance storage<br><br> I'm looking to collaborate on <br>-Computer vision projects  <br>- Python-based automation systems<br> <br> I'm looking for help with<br> -Optimizing face recognition accuracy  <br>- Integrating blockchain with real-world systems<br><br> I'm currently learning<br>- Advanced Python  <br>- SQL optimization  <br>- Basics of blockchain integration<br><br>Ask me about<br>- Python projects  <br>- Attendance system design  <br>- SQL queries and database logic  <br>- Project planning and implementation<br> <br>fun fact <br>I prefer building imperfect working systems over perfect theory notes.<br><br>
 
 
